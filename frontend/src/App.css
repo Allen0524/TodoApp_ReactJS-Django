@@ -1,0 +1,14 @@
+.btn-circle{
+  width: 20px;
+  height: 20px;
+  background-color: #FFFFFFFF;
+  border-radius: 15px;
+}
+
+.text_center{
+  text-align: center;
+}
+
+.checkMar{
+  margin-right: 5px;
+}
